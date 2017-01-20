@@ -1,6 +1,6 @@
 #Laradock's Workspace Container Base Image
 
-Visit the [Laradock](https://github.com/Laradock/laradock) repository.
+Visit the [Laradock](https://github.com/bipinu/laradock) repository.
 
 ## What is Laradock?
 Laradock is a Docker PHP development environment. It facilitate running PHP Apps on Docker.
